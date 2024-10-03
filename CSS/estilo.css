@@ -3,24 +3,16 @@
     padding: 0;
     box-sizing: content-box;
 }
-#main{
-    
+#top{
+    width: 100vw;
+    height: 15vh;
+    background-color: rgb(red 28, green 0, blue 40);
+    display: flex;
+    justify-content: space-between;
 }
-#carros{
-
-}
-#anuncios{
+#contain {
     width: 100vw;
     height: 100vh;
     display: flex;
     flex-wrap: wrap;
-}
-#anuncio1{
-
-}
-#anuncio2{
-
-}
-#anuncio3{
-
 }
